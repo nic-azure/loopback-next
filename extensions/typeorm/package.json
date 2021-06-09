@@ -42,12 +42,9 @@
     "typeorm": "^0.2.34"
   },
   "devDependencies": {
-    "@loopback/boot": "^3.4.1",
     "@loopback/build": "^6.4.1",
-    "@loopback/core": "^2.16.1",
     "@loopback/eslint-config": "^10.2.1",
     "@loopback/repository": "^3.7.0",
-    "@loopback/rest": "^9.3.1",
     "@loopback/testlab": "^3.4.1",
     "@types/json-schema": "^7.0.7",
     "@types/node": "^10.17.60",

@@ -51,13 +51,10 @@
     "util-promisifyall": "^1.0.6"
   },
   "devDependencies": {
-    "@loopback/authentication": "^7.3.1",
     "@loopback/build": "^6.4.1",
-    "@loopback/core": "^2.16.1",
     "@loopback/eslint-config": "^10.2.1",
     "@loopback/mock-oauth2-provider": "^0.3.1",
     "@loopback/openapi-spec-builder": "^3.2.1",
-    "@loopback/rest": "^9.3.1",
     "@loopback/testlab": "^3.4.1",
     "@types/jsonwebtoken": "^8.5.1",
     "@types/lodash": "^4.14.170",
